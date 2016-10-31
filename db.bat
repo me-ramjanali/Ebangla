@@ -1,0 +1,1 @@
+mongod --dbpath "F:\node_projects\ebangla\client\data"
