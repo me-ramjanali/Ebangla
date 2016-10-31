@@ -23,7 +23,7 @@
 <h2>Database</h2>
 <p>install mongodb on your computer</p>
 <p>
-on your command line type <pre>mpngod --dbpath <projects_directory/client/data><pre>
+on your command line type mpngod --dbpath <projects_directory/client/data>
 <p>
 
 <h2>Browse</h2>
